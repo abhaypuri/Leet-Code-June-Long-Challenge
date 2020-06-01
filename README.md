@@ -1,2 +1,2 @@
 # Leet-Code-June-Long-Challenge
-Python Solutions of LeetCode MAY Challenge 
+Python Solutions of LeetCode JUNE Challenge 
