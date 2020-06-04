@@ -6,3 +6,5 @@ Python Solutions of LeetCode JUNE Challenge
 <li> Day2: Delete Node in LinkedList </li>
 
 <li> Day3: Two City Scheduling </li>
+
+<li> Day4: Reverse String </li>
